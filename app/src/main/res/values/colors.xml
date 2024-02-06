@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- white colors -->
+    <color name="white">#FFFFFF</color>
+
+<!-- Yellow colors -->
+    <color name="light_yellow">#E6D17B</color>
+    <color name="gold">#CFB53B</color>
+    <color name="vegas_gold">#C5B358</color>
+    <color name="pastel_orange">#FEBA4F</color>
+<!-- pink colors -->
+    <color name="pink">#F45FDC</color>
+
+<!-- red colors -->
+    <color name="red">#E82727</color>
+
+<!-- green colors -->
+    <color name="limegreen">#32CD32</color>
+    <color name="palegreen">#98FB98</color>
+    <color name="green">#008000</color>
+    <color name="darkgreen">#006400</color>
+    <color name="teal_200">#30CDCD</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="seagreen">#2E8B57</color>
+
+<!-- purple colors -->
+    <color name="light_purple">#CAB9F5</color>
+    <color name="purple_light">#B799FF</color>
+    <color name="light_violet">#CF9FFF</color>
+    <color name="thistle">#D8BFD8</color>
+    <color name="purple_200">#8415E6</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+
+
+<!-- blue colors -->
+    #ACBCFF
+    <color name="mix_blue">#ACBCFF</color>
+    <color name="cream_color">#A9B3F1</color>
+    <color name="periwinkle">#CCCCFF</color>
+    <color name="sea_bluer">#AEE2FF</color>
+    <color name="sky_blue">#63C5DA</color>
+
+<!-- gray colors -->
+    <color name="cream">#E3E1E4</color>
+    <color name="light_gray1">#D3D3D3</color>
+    <color name="light_blue">#C3C7C8</color>
+    <color name="light_gray">#FFC8BEBE</color>
+    <color name="ash_gray">#B2BEB5</color>
+    <color name="gray">#383838</color>
+
+<!-- black colors -->
+    <color name="black">#000000</color>
+</resources>

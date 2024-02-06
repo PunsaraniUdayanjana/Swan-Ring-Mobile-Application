@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alata</item>
+        <item>@font/alex_brush</item>
+        <item>@font/alike_angular</item>
+        <item>@font/allan</item>
+        <item>@font/arizonia</item>
+        <item>@font/asul</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/cagliostro</item>
+    </array>
+</resources>
